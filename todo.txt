@@ -1,0 +1,5 @@
+CORDENO
+	sample data
+	update forms
+	add logo
+	page for update/delete
